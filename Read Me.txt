@@ -1,0 +1,7 @@
+This is a To Do List and Storing Application, using Tkinter and Python.
+You can Add, Delete, Rearrange, Complete Mark and Store the Tasks.
+Just Run the Program to use it.
+All the Notes will be stored in the txt file for later uses.
+
+Any Queries or bugs, reach me at: karmendra5902@gmail.com
+The File should only be used for non-profitable, Learning Purpose.
